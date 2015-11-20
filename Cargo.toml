@@ -1,0 +1,8 @@
+[package]
+name = "grayout"
+version = "0.1.0"
+authors = ["Jason Orendorff <jason.orendorff@gmail.com>"]
+
+[dependencies]
+image = "0.5.1"
+hsl = "0.1.0"
