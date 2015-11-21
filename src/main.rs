@@ -53,5 +53,5 @@ fn main() {
     process_image(&Path::new("rust.jpg"),
                   &Path::new("rust-out.png")).unwrap();
     
-    println!("done");
+    println!("The picture has been rusted!");
 }
